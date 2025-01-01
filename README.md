@@ -88,6 +88,7 @@ Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan hal
 2. Bagian utama berisi:
 * Judul "Data Minuman"
 * Tombol "+ Tambah Data Baru" berwarna salem/coral
+* ![image](https://github.com/user-attachments/assets/dec8de8e-cf40-422e-9c79-8c4563ee1bc1)
 * Tabel dengan kolom:
   * No
   * Nama Minuman
