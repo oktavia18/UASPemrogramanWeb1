@@ -63,10 +63,10 @@ Fitur Utama:
 Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
 1. Header menampilkan judul "Daftar Kuliner Korean Food" dengan navigasi menu di bawahnya.
 2. Bagian utama berisi:
-* Judul "Data Makanan"
-* Tombol "+ Tambah Data Baru" berwarna salem/coral
+- Judul "Data Makanan"
+- Tombol "+ Tambah Data Baru" berwarna salem/coral
 * ![image](https://github.com/user-attachments/assets/34377993-ed1d-4d19-925d-2a2bcb743a7e)
-* Tabel dengan kolom:
+- Tabel dengan kolom:
   * No
   * Nama Makanan
   * Daerah Asal
@@ -86,10 +86,10 @@ Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
 Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan halaman Data Makanan sebelumnya:
 1. Header tetap menampilkan judul "Daftar Kuliner Korean Food" dengan navigasi menu, dimana menu "Minuman" sedang aktif (ditandai dengan background coklat)
 2. Bagian utama berisi:
-* Judul "Data Minuman"
-* Tombol "+ Tambah Data Baru" berwarna salem/coral
+- Judul "Data Minuman"
+- Tombol "+ Tambah Data Baru" berwarna salem/coral
 * ![image](https://github.com/user-attachments/assets/dec8de8e-cf40-422e-9c79-8c4563ee1bc1)
-* Tabel dengan kolom:
+- Tabel dengan kolom:
   * No
   * Nama Minuman
   * Daerah Asal
@@ -109,19 +109,19 @@ Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan hal
 ![image](https://github.com/user-attachments/assets/081bac73-4e57-46e3-849c-ded1f61edc17)
 
 Halaman ini dirancang untuk memperkenalkan filosofi dan misi bisnis kepada pengunjung. Pesan utamanya adalah pengalaman kuliner otentik dan dedikasi terhadap kualitas dan rasa yang otentik dari Korea.
-* Judul "About Us"
+- Judul "About Us"
   * Bagian ini memperkenalkan pengunjung kepada informasi tentang bisnis atau restoran yang ditampilkan. Judulnya sederhana, jelas, dan      memberikan konteks bahwa bagian ini adalah tentang perusahaan.
-* Deskripsi "Welcome to HanGuk Taste"
+- Deskripsi "Welcome to HanGuk Taste"
   * Subbagian ini memberikan sambutan hangat kepada pengunjung. Paragraf-paragraf berikutnya menjelaskan misi bisnis, yaitu menghadirkan     cita rasa otentik masakan Korea.
-* Deskripsi "Our History"
+- Deskripsi "Our History"
   * Subbagian ini menjelaskan perjalanan dan latar belakang restoran atau bisnis Menunjukkan dedikasi dan pengalaman bisnis yang telah       membangun reputasi mereka hingga saat ini.
-* Deskripsi ini memberikan gambaran tentang:
+- Deskripsi ini memberikan gambaran tentang:
   * Komitmen terhadap bahan berkualitas dan resep tradisional.
   * Ragam menu seperti Bibimbap dan Kimchi yang menjadi andalan masakan Korea.
   * Tujuan utama memberikan pengalaman tak terlupakan melalui masakan mereka.
-* Gambar Hidangan Korea
+- Gambar Hidangan Korea
   * Gambar di sisi kanan menampilkan berbagai hidangan khas Korea, memberikan daya tarik visual yang menggugah selera. Hal ini membantu      menguatkan citra bahwa restoran ini menyajikan makanan otentik dan berkualitas.
-* Penyusunan Elemen: Layout yang rapi, dengan teks di sebelah kiri dan gambar di sebelah kanan, membantu keseimbangan visual dan mempermudah pembaca dalam memahami informasi.
+- Penyusunan Elemen: Layout yang rapi, dengan teks di sebelah kiri dan gambar di sebelah kanan, membantu keseimbangan visual dan mempermudah pembaca dalam memahami informasi.
 
 
 
@@ -132,14 +132,14 @@ Halaman ini dirancang untuk memperkenalkan filosofi dan misi bisnis kepada pengu
 
 Laman ini dirancang untuk memudahkan pengunjung website menghubungi bisnis tersebut dan juga menampilkan berbagai platform pemesanan yang tersedia untuk melakukan order. Desainnya sederhana dan informatif dengan navigasi di bagian atas yang mencakup Home, Makanan, Minuman, About, dan Contact.
 ### terdapat beberapa elemen dan informasi penting:
-* Header "Our Contact" yang ditampilkan di bagian atas halaman dengan latar belakang peta.
-* Bagian "Get in Touch" yang berisi:
+- Header "Our Contact" yang ditampilkan di bagian atas halaman dengan latar belakang peta.
+- Bagian "Get in Touch" yang berisi:
   * Pesan sambutan dalam Bahasa Indonesia: "Baik pelanggan setia maupun pengunjung baru, kami berharap dapat melayani Anda dan berbagi       hasrat kami untuk masakan lezat."
   * Alamat: 777 Korean Wells, Harrisstreet
   * Nomor telepon: +1 (234) 567 890 00
   * Email: viaokta11223@gmail.com
 Informasi kontak tersedia lengkap di website untuk memudahkan pelanggan menghubungi mereka.
-* Bagian "Order via Our Delivery Partners" yang menampilkan logo-logo layanan pengiriman/delivery:
+- Bagian "Order via Our Delivery Partners" yang menampilkan logo-logo layanan pengiriman/delivery:
   * GoFood
   * GrabFood
   * ShopeeFood
