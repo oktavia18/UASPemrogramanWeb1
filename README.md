@@ -143,13 +143,13 @@ Laman ini dirancang untuk memudahkan pengunjung website menghubungi bisnis terse
   * Nomor telepon: +1 (234) 567 890 00
   * Email: viaokta11223@gmail.com
 Informasi kontak tersedia lengkap di website untuk memudahkan pelanggan menghubungi mereka.
-
-menawarkan layanan makanan dengan berbagai pilihan menu yang dapat dipesan melalui website atau melalui mitra layanan pesan antar makanan.
 - Bagian "Order via Our Delivery Partners" yang menampilkan logo-logo layanan pengiriman/delivery:
   * GoFood
   * GrabFood
   * ShopeeFood
   * Tokopedia
+ 
+menawarkan layanan makanan dengan berbagai pilihan menu yang dapat dipesan melalui website atau melalui mitra layanan pesan antar makanan.
 
 # Penjelasan tambahan
 
