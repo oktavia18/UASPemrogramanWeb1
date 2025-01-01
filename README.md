@@ -71,11 +71,13 @@ Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
   * Nama Makanan
   * Daerah Asal
   * Aksi (Edit dan Hapus)
+  * ![image](https://github.com/user-attachments/assets/c85f9158-6013-4c21-86cf-dc401c8411d3)
 3. Contoh data yang ditampilkan:
 * No: 1
 * Nama Makanan: Kimchi Jjigae
 * Daerah Asal: South Korea
 * Aksi: Tombol Edit dan Hapus
+
 4. Di bagian bawah terdapat informasi "Total Data: 1" yang menunjukkan jumlah data yang tersedia.
 
 
@@ -94,6 +96,8 @@ Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan hal
   * Nama Minuman
   * Daerah Asal
   * Aksi (Edit dan Hapus)
+  * ![image](https://github.com/user-attachments/assets/f2c52970-2c86-4292-93cf-5b8deb028ac6)
+
 3. Contoh data yang ditampilkan:
 * No: 1
 * Nama Minuman: Makkgeolli
