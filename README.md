@@ -25,7 +25,7 @@ Menjalankan MySQL dari menu **XAMPP Control.**
 ## 3. Membuat struktur file
 ![image](https://github.com/user-attachments/assets/3e158d15-a15b-4f5b-8421-f00c681e57af)
 
-### Membuat tampilan didalam
+# Membuat tampilan didalam
 
 ## 1. Membuat Index dan Menambahkan Data Navbar
 ![image](https://github.com/user-attachments/assets/052f4898-1076-4e3c-931c-27eaa3f5913c)
