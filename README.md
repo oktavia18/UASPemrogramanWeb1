@@ -65,6 +65,7 @@ Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
 2. Bagian utama berisi:
 * Judul "Data Makanan"
 * Tombol "+ Tambah Data Baru" berwarna salem/coral
+  ![image](https://github.com/user-attachments/assets/34377993-ed1d-4d19-925d-2a2bcb743a7e)
 * Tabel dengan kolom:
   * No
   * Nama Makanan
