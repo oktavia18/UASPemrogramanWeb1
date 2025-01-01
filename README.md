@@ -44,16 +44,16 @@ Navbar terdiri dari 5 menu utama (Home, Makanan, Minuman, About, Contact) yang d
 Halaman Home ini menyajikan tampilan visual yang menarik dengan foto berbagai hidangan khas Korea, seperti Kimchi, Bibimbap, Bulgogi, dan makanan lainnya. Foto-foto di bagian utama menampilkan suasana hangat saat menikmati makanan bersama, dikelilingi oleh mangkuk dan piring yang penuh dengan warna-warni masakan Korea.
 
 Fitur Utama:
-* Menu Navigasi:
+- Menu Navigasi:
   * Terdapat menu navigasi di bagian atas halaman dengan pilihan seperti Home, Makanan, Minuman, About, dan Contact, memudahkan pengguna untuk menjelajahi website.
-* Hero Image:
+- Hero Image:
   * Gambar besar di tengah halaman menampilkan hidangan khas Korea yang disusun rapi di atas meja. Tampak berbagai jenis makanan seperti sup pedas, mie, dan lauk pendamping.
     Teks overlay "From Kimchi to Bulgogi" memberikan kesan eksplorasi kuliner Korea yang kaya.
-* Subjudul & Call to Action:
+- Subjudul & Call to Action:
   * Subjudul "Explore the Richness of Korean Dishes" mengundang pengunjung untuk mempelajari lebih jauh tentang makanan tradisional Korea.
-* Tata Warna:
+- Tata Warna:
   * Warna putih pada latar belakang dan elemen teks memberikan kesan bersih dan profesional, sementara warna oranye pada menu navigasi menambah sentuhan hangat yang relevan dengan tema       kuliner.
-* Keseluruhan Tema:
+- Keseluruhan Tema:
   Halaman ini memancarkan nuansa tradisional sekaligus modern, dengan fokus pada pengalaman makan bersama yang menjadi bagian penting dari budaya Korea.
 
 ## 3. Menambahkan Tabel Data Makanan
