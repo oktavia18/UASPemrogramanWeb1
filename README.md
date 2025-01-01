@@ -119,8 +119,7 @@ Halaman ini dirancang untuk memperkenalkan filosofi dan misi bisnis kepada pengu
   * Tujuan utama memberikan pengalaman tak terlupakan melalui masakan mereka.
 * Gambar Hidangan Korea
   * Gambar di sisi kanan menampilkan berbagai hidangan khas Korea, memberikan daya tarik visual yang menggugah selera. Hal ini membantu      menguatkan citra bahwa restoran ini menyajikan makanan otentik dan berkualitas.
-* Penyusunan Elemen: Layout yang rapi, dengan teks di sebelah kiri dan gambar di sebelah kanan, membantu keseimbangan visual dan        
-  mempermudah pembaca dalam memahami informasi.
+* Penyusunan Elemen: Layout yang rapi, dengan teks di sebelah kiri dan gambar di sebelah kanan, membantu keseimbangan visual dan mempermudah pembaca dalam memahami informasi.
 
 
 
