@@ -38,7 +38,7 @@ Navbar terdiri dari 5 menu utama (Home, Makanan, Minuman, About, Contact) yang d
 ![image](https://github.com/user-attachments/assets/d3555355-ee1e-4bcc-9cb9-368f0f1ebf3c)
 ![image](https://github.com/user-attachments/assets/e82788f9-6579-4259-a994-4f66145bcdba)
 ![image](https://github.com/user-attachments/assets/b2da436f-83a0-4bcf-8385-d44d6af084b4)
-![image](https://github.com/user-attachments/assets/718856a1-3367-4714-997c-5ff3b143dbac)
+![image](https://github.com/user-attachments/assets/11db63cb-1950-4b0d-98b3-fc5abcf288ce)
 ![image](https://github.com/user-attachments/assets/b78e7a20-9559-4fd7-99b9-dedd8ab8a5bb)
 
 Halaman Home ini menyajikan tampilan visual yang menarik dengan foto berbagai hidangan khas Korea, seperti Kimchi, Bibimbap, Bulgogi, dan makanan lainnya. Foto-foto di bagian utama menampilkan suasana hangat saat menikmati makanan bersama, dikelilingi oleh mangkuk dan piring yang penuh dengan warna-warni masakan Korea.
