@@ -151,5 +151,8 @@ menawarkan layanan makanan dengan berbagai pilihan menu yang dapat dipesan melal
   * ShopeeFood
   * Tokopedia
 
+# Penjelasan tambahan
+
+Website ini bertujuan untuk memberikan informasi yang lengkap dan mudah diakses tentang beragam makanan Korea, mulai dari makanan utama, makanan penutup, hingga minuman khas Korea. Selain itu, website ini juga bisa menjadi referensi bagi pengunjung yang ingin mencoba resep makanan Korea di rumah atau mencari tempat makan Korea terbaik. Pengguna dapat mencari informasi berdasarkan kategori, membaca ulasan, melihat gambar, atau menemukan resep autentik dari berbagai daerah di Korea. 
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
