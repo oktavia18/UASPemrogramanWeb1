@@ -1,5 +1,4 @@
 # UAS Pemrograman Web1 (Pertemuan ke 16)
-# UTS PEMROGRAMAN WEB1 { Pertemuan ke 8}
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
