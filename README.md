@@ -1,4 +1,4 @@
-# UAS Pemrograman Web1 (Pertemuan ke 16)
+# UAS Pemrograman Web1 (Semester 3 PT_16)
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
