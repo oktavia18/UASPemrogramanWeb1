@@ -28,10 +28,9 @@ Menjalankan MySQL dari menu **XAMPP Control.**
 # Membuat tampilan didalam
 
 ## 1. Membuat Index dan Menambahkan Data Navbar
-![image](https://github.com/user-attachments/assets/052f4898-1076-4e3c-931c-27eaa3f5913c)
+![Screenshot 2025-01-05 220336](https://github.com/user-attachments/assets/b5108957-c852-4ace-a67d-c6c5617575e0)
 
-Bagian index website menampilkan judul "Daftar Kuliner Korean Food" di bagian atas sebagai identitas utama website.
-Navbar terdiri dari 5 menu utama (Home, Makanan, Minuman, About, Contact) yang disusun horizontal dan dipisahkan dengan simbol "|" untuk navigasi ke berbagai halaman website.
+Bagian index website menampilkan judul "Daftar Kuliner Korean Food" di bagian atas sebagai identitas utama website. Penggunaan Boostrap-5 pada Navbar diatas agar tampilan rapih, yang di dalamnya terdiri dari 4 menu utama (Home, Makanan, Minuman, About) yang disusun horizontal dan dipisahkan dengan simbol "|" untuk navigasi ke berbagai halaman website.
 
 ## 2. Menambahkan Home
 
