@@ -1,4 +1,4 @@
-# UAS Pemrograman Web1 (Semester 3 PT_16)
+# UAS Pemrograman Web1 (Semester 3 Pt_16)
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
@@ -8,7 +8,7 @@
 | **Mata Kuliah**    |      Pemrograman Web 1     |
 | **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
 
-# Membuat Website tanpa Boostrap-5
+# Membuat Aplikasi CRUD menggunakan Boostrap-5 dan Datatables
 
 ## Langkah-Langkah
 
