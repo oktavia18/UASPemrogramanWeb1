@@ -34,7 +34,7 @@ Bagian index website menampilkan judul "Daftar Kuliner Korean Food" di bagian at
 
 ## 2. Menambahkan Home
 
-![image](https://github.com/user-attachments/assets/d3555355-ee1e-4bcc-9cb9-368f0f1ebf3c)
+![image](https://github.com/user-attachments/assets/569f3f35-0788-4d59-a6e1-979662418abd)
 ![image](https://github.com/user-attachments/assets/e82788f9-6579-4259-a994-4f66145bcdba)
 ![image](https://github.com/user-attachments/assets/b2da436f-83a0-4bcf-8385-d44d6af084b4)
 ![image](https://github.com/user-attachments/assets/11db63cb-1950-4b0d-98b3-fc5abcf288ce)
@@ -57,7 +57,7 @@ Fitur Utama:
 
 ## 3. Menambahkan Tabel Data Makanan
 
-![image](https://github.com/user-attachments/assets/0c172934-8f6b-474d-814f-80f905621eaa)
+![image](https://github.com/user-attachments/assets/76e0e3d5-3876-4b7f-ab2d-a0a58ac9f196)
 
 Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
 1. Header menampilkan judul "Daftar Kuliner Korean Food" dengan navigasi menu di bawahnya.
@@ -82,7 +82,7 @@ Halaman ini menampilkan Data Makanan Korea dengan beberapa elemen:
 
 ## 4. Menambahkan Tabel Data Minuman
 
-![image](https://github.com/user-attachments/assets/d8a475b0-321d-441d-be51-36bf1e508506)
+![image](https://github.com/user-attachments/assets/de41d07f-d9eb-4688-b3a5-8244423f6573)
 
 Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan halaman Data Makanan sebelumnya:
 1. Header tetap menampilkan judul "Daftar Kuliner Korean Food" dengan navigasi menu, dimana menu "Minuman" sedang aktif (ditandai dengan background coklat)
@@ -107,7 +107,7 @@ Halaman ini menampilkan Data Minuman Korea dengan struktur yang mirip dengan hal
 
 ## 5. Menambahkan About
 
-![image](https://github.com/user-attachments/assets/41e4ffb7-ff6b-41c2-9653-1da318ee6a66)
+![image](https://github.com/user-attachments/assets/d33cba7b-4f4a-4f73-85fc-9f8835f94e9a)
 ![image](https://github.com/user-attachments/assets/82ace933-7f96-4858-ae8f-0292ce8b2e6e)
 ![image](https://github.com/user-attachments/assets/081bac73-4e57-46e3-849c-ded1f61edc17)
 
